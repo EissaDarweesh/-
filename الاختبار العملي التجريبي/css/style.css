@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    
+}
+header {
+    background-color: black;
+    display: flex;
+    width:100%
+    
+    
+}
+header  .btn-group{
+    display: flex;
+    padding-top: 5px;
+    float: left;
+    margin-left: 250px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+header p {
+    color: white;
+    display: flex;
+    padding-left: 10px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    margin-right: 200px;
+    cursor: pointer;
+}
+header .contect-us {
+    display: flex;
+    float:right;
+    padding-left: 25px;
+    padding-top: 15px;
+   
+}
+.contect-us i{
+    color: white;
+    padding-left: 15px;
+    cursor: pointer;
+}
+nav {
+    display: flex;
+    padding-top:10px;
+
+}
+nav .logo img {
+    margin-left: 200px;
+    display: flex;
+    float: left;
+    width: 120px;
+    height: 60px;
+    padding-right:50px;
+    cursor: pointer;
+}
+nav .search {
+    display: flex;
+    float: right;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+
+main .card {
+    margin-top: 0px;
+    display: flex;
+    display: inline-block;
+    margin-left: 10px;
+}
+main .card img{
+    width: 255px;
+}
+.pop {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.pop span {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.story {
+    display: flex;
+    margin-left:450px;
+    margin-right: 100px;
+}
+.card-deck img{
+    width: 150px;
+    height: 200px;
+
+}
+
+
